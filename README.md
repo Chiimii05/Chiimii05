@@ -24,6 +24,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,py,vscode,react,html,css,aws,docker,postgres,mongodb,mysql,discord&perline=14" />
   </a>
+</br>
 <i>Follow me around the web:</i><br>
 <a href="https://www.linkedin.com/in/imanol-ayo-aranguren-0712a7230/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 <a href="mailto:imanolayo.ia@gmail.com?subject=Hi%20Imanol%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
@@ -32,9 +33,6 @@
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=Chiimii05&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
-
-
-
 
 </br></br>
 	
