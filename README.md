@@ -50,7 +50,7 @@
   	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiimii05&theme=dark&border_radius=4.6&fire=FF5722" alt="GitHub Streak" />
 	</p>
 	<br/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chimii05&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Chimii05" height="230px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chiimii05&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Chimii05" height="230px"/>
 
   </p>
 </details>
