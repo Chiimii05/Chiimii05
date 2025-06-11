@@ -3,17 +3,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Science+and+AI+Expert;Trader+🚀;Python+developer;Web+developer;Algoritmic+Trader;Darwin+EGXL+|+EZDK;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
 
-
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
-
-<i>Follow me around the web:</i><br>
-<a href="https://www.linkedin.com/in/imanol-ayo-aranguren-0712a7230/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-<a href="mailto:imanolayo.ia@gmail.com?subject=Hi%20Imanol%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	    <img alt="Chiimii05's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chimii05&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
 
@@ -31,6 +24,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,py,vscode,react,html,css,aws,docker,postgres,mongodb,mysql,discord&perline=14" />
   </a>
+<i>Follow me around the web:</i><br>
+<a href="https://www.linkedin.com/in/imanol-ayo-aranguren-0712a7230/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+<a href="mailto:imanolayo.ia@gmail.com?subject=Hi%20Imanol%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </p>
 
 <p align = "center">
