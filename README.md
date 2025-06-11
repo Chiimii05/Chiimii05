@@ -11,10 +11,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently passionate on **Web development | Python development | IA | Algoritmic Trader**
+- 🌱 I’m currently passionate about **Web development | Python development | IA | Algoritmic Trading | Finance**
 
-- 🧑‍🎓 I’m a Graduate from Deusto University in 
-      Data Science and Artificial Inteligence
+- 🧑‍🎓 I graduated from Deusto University with a degree in Data Science and Artificial Intelligence.
 
 - 📫 How to reach me **imanolayo.ia@gmail.com**
 
