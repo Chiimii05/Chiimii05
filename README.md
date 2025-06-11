@@ -5,9 +5,17 @@
   <img
     src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"
     alt="Gmail"
-    style="border:none; display:inline-block; width:100px; height:auto;"
+    style="border:none; display:inline-block; width:57px; height:25;"
   />
 </a>
+<a href="https://discord.gg/chimi_65077" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"
+    alt="Discord"
+    style="border:none; display:inline-block; width:67px; height:25;"
+  />
+</a>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Science+and+AI+Expert;Trader+🚀;Python+developer;Web+developer;Algoritmic+Trader;Darwin+EGXL+|+EZDK;Competitive+Programmer;Always+learning+new+things"></a>
@@ -36,10 +44,6 @@
     <img src="https://skillicons.dev/icons?i=github,git,py,vscode,react,html,css,aws,docker,postgres,mongodb,mysql,discord&perline=14" />
   </a>
 </br></br>
-<i>Follow me around the web:</i><br>
-<a href="https://www.linkedin.com/in/imanol-ayo-aranguren-0712a7230/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-<a href="mailto:imanolayo.ia@gmail.com?subject=Hi%20Imanol%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-</p>
 
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=Chiimii05&style=plastic&color=blueviolet" alt = "Profile Views"/>
