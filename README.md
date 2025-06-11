@@ -1,5 +1,8 @@
 <h1 align="center">Hi , I'm Imanol Ayo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align=center>
+	<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=Chiimii05&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	</p>
         <a href="https://www.linkedin.com/in/imanol-ayo-aranguren-0712a7230/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 	<a href="mailto:your.email@gmail.com" target="_blank" rel="noopener noreferrer">
   <img
@@ -16,38 +19,56 @@
   />
 </a>
 
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Science+and+AI+Expert;Trader+🚀;Python+developer;Web+developer;Algoritmic+Trader;Darwin+EGXL+|+EZDK;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
 
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Chiimii05's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chimii05&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	    <br/>
-	    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chimii05&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Chimii05" height="230px"/>
+<h1 align="center">STATS</h1>
 
+<br>
+	<p align="center">
+  	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiimii05&theme=dark&border_radius=4.6&fire=FF5722" alt="GitHub Streak" />
+	</p>
+	<br/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chimii05&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Chimii05" height="230px"/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+<h1 align="center">👨🏻‍💻TECHNOLOGY👨🏻‍💻</h1>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,py,vscode,react,html,css,aws,docker,postgres,mongodb,mysql,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=github,git,py,vscode,react,html,css.mongodb&perline=14" />
   </a>
+  <!-- nuevos badges de Shields.io -->
+  <br/><br/>
+  <a href="https://www.metatrader5.com/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/MetaTrader-5591E9?style=flat-square&logo=metatrader&logoColor=white"
+      alt="MetaTrader5"
+    />
+  </a>
+  <a href="https://strategyquant.com/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/StrategyQuant-000000?style=flat-square"
+      alt="StrategyQuant"
+    />
+  </a>
+  <a href="https://xcore.com/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Xcore-2D2D2D?style=flat"
+      alt="Xcore"
+    />
+  </a>
+  <br/><br/>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,postgres,mongodb,mysql,discord&perline=14" />
+  </a>
+</p>
 </br></br>
 
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=Chiimii05&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
+
 
 </br></br>
 	
