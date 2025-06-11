@@ -27,3 +27,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=github,git,py,vscode,react,html,css,aws,docker,postgres,mongodb,mysql,discord&perline=14" />
   </a>
 </p>
+
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
