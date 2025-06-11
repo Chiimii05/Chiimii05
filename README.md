@@ -85,11 +85,10 @@
     <img src="https://skillicons.dev/icons?i=aws,docker,postgres,mongodb,mysql,discord&perline=14" />
   </a>
 </p>
-</br></br>
 
 
 
-</br></br>
+</br>
 	
 ## Contributions Graph
 	
