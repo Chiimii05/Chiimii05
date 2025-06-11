@@ -13,7 +13,8 @@
   
 - 🌱 I’m currently passionate on **Web development | Python development | IA | Algoritmic Trader**
 
-- 🧑‍🎓 I’m a Graduate from Deusto, Data Science and Artificial Inteligence
+- 🧑‍🎓 I’m a Graduate from Deusto University in 
+      Data Science and Artificial Inteligence
 
 - 📫 How to reach me **imanolayo.ia@gmail.com**
 
