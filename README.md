@@ -11,7 +11,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently passionate **Web development | Python development | IA | Algoritmic Trader**
+- 🌱 I’m currently passionate on **Web development | Python development | IA | Algoritmic Trader**
 
 - 🧑‍🎓 I’m a Graduate from Deusto, Data Science and Artificial Inteligence
 
