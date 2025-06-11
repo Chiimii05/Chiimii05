@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	<img src = "https://komarev.com/ghpvc/?username=Chiimii05&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
