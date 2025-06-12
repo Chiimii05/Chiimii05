@@ -58,7 +58,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,py,vscode,react,html,css,mongodb&perline=14" />
+    <img src="https://skillicons.dev/icons?i=github,git,py,vscode,react,html,css,docker&perline=14" />
   </a>
   <!-- nuevos badges de Shields.io -->
   <br/><br/>
@@ -82,7 +82,7 @@
   </a>
   <br/><br/>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,postgres,mongodb,mysql,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,postgres,mongodb,mysql,twitter,discord&perline=14" />
   </a>
 </p>
 
