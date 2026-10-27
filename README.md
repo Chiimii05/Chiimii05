@@ -12,12 +12,16 @@
   <img src="https://img.shields.io/badge/Discord-chimi__65077-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: chimi_65077" />
 </p>
 
+<div align="center">
+
 ## 👋 About me
 
-- 🎓 Graduated in **Data Science & Artificial Intelligence** from the University of Deusto.
-- 🔭 Right now I'm building my own products: an ERP, an education app and a web studio.
-- 🌱 Interested in **backend development, AI, algorithmic trading and finance**.
-- 📈 Running my own trading strategies as **DARWINs EGXL & EZDK**.
+<p>
+  🎓 Graduated in <b>Data Science & Artificial Intelligence</b> from the University of Deusto.<br/>
+  🔭 Right now I'm building my own products: an ERP, an education app and a web studio.<br/>
+  🌱 Interested in <b>backend development, AI, algorithmic trading and finance</b>.<br/>
+  📈 Running my own trading strategies as <b>DARWINs EGXL & EZDK</b>.
+</p>
 
 ## 🚧 What I'm building
 
@@ -81,3 +85,5 @@ Daily quote of my trading strategies on Darwinex Zero (start = 100). Updated aut
 </picture>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Chiimii05&style=flat-square&color=C8BE25&label=Profile+views" alt="Profile views" /></p>
+
+</div>

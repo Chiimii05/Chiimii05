@@ -12,12 +12,16 @@
   <img src="https://img.shields.io/badge/Discord-chimi__65077-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: chimi_65077" />
 </p>
 
+<div align="center">
+
 ## 👋 Sobre mí
 
-- 🎓 Graduado en **Ciencia de Datos e Inteligencia Artificial** por la Universidad de Deusto.
-- 🔭 Ahora mismo estoy creando mis propios productos: un ERP, una app educativa y un estudio de webs.
-- 🌱 Me interesan el **desarrollo backend, la IA, el trading algorítmico y las finanzas**.
-- 📈 Opero mis propias estrategias como **DARWINs EGXL y EZDK**.
+<p>
+  🎓 Graduado en <b>Ciencia de Datos e Inteligencia Artificial</b> por la Universidad de Deusto.<br/>
+  🔭 Ahora mismo estoy creando mis propios productos: un ERP, una app educativa y un estudio de webs.<br/>
+  🌱 Me interesan el <b>desarrollo backend, la IA, el trading algorítmico y las finanzas</b>.<br/>
+  📈 Opero mis propias estrategias como <b>DARWINs EGXL y EZDK</b>.
+</p>
 
 ## 🚧 En qué estoy trabajando
 
@@ -81,3 +85,5 @@ Cotización diaria de mis estrategias de trading en Darwinex Zero (inicio = 100)
 </picture>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Chiimii05&style=flat-square&color=C8BE25&label=Visitas" alt="Visitas al perfil" /></p>
+
+</div>
