@@ -61,6 +61,8 @@ Projects I'm working on right now. They're not public yet; links will appear her
 
 Daily quote of my trading strategies on Darwinex Zero (start = 100). Updated automatically every day.
 
+<b>EZDK</b> is traded by <b>E1</b>, my own MetaTrader 5 bot: a multi-asset 24 h mean-reversion strategy that only enters when volatility picks up,<br/>with volatility-based stops, fixed risk per trade and every position closed the same day.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chiimii05/Chiimii05/output/darwins-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chiimii05/Chiimii05/output/darwins.svg" />

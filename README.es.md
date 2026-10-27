@@ -61,6 +61,8 @@ Proyectos en los que trabajo ahora mismo. Aún no son públicos; aquí aparecer�
 
 Cotización diaria de mis estrategias de trading en Darwinex Zero (inicio = 100). Se actualiza sola cada día.
 
+<b>EZDK</b> lo opera <b>E1</b>, mi propio bot de MetaTrader 5: una estrategia multiactivo de reversión a la media de 24 h que solo entra cuando sube la volatilidad,<br/>con stops según la volatilidad, riesgo fijo por operación y todas las posiciones cerradas en el día.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chiimii05/Chiimii05/output/darwins-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chiimii05/Chiimii05/output/darwins.svg" />
