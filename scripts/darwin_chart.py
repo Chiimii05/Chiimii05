@@ -1,7 +1,9 @@
 """Dibuja la cotización de mis DARWINs (Darwinex Zero) en un SVG para el README.
 
 Uso: python scripts/darwin_chart.py dist
-Genera dist/darwins.svg (tema claro) y dist/darwins-dark.svg (tema oscuro).
+Genera en dist/:
+  - darwins.svg / darwins-dark.svg: gráfico de la cotización (tema claro y oscuro)
+  - darwins-stats-{en,es}.svg / darwins-stats-{en,es}-dark.svg: tabla de rentabilidades
 Solo usa la librería estándar. Si Darwinex no responde, sale con error y la
 Action no publica nada, así que en el perfil se queda el gráfico anterior.
 """
@@ -96,12 +98,68 @@ def render(series, theme):
     return "\n".join(out)
 
 
+STATS_LABELS = {
+    "en": ["DARWIN", "Quote", "This month", "This year", "Since start", "Max. drawdown"],
+    "es": ["DARWIN", "Cotización", "Este mes", "Este año", "Desde inicio", "Caída máx."],
+}
+
+
+def stats(s):
+    """Rentabilidades (%) a partir de los cierres diarios. La caída máxima es de pico a valle."""
+    last_d, last = s[-1]
+    prev_month = [v for d, v in s if (d.year, d.month) < (last_d.year, last_d.month)]
+    prev_year = [v for d, v in s if d.year < last_d.year]
+    peak, mdd = s[0][1], 0.0
+    for _, v in s:
+        peak = max(peak, v)
+        mdd = min(mdd, v / peak - 1)
+    return {
+        "quote": last,
+        "month": (last / (prev_month[-1] if prev_month else s[0][1]) - 1) * 100,
+        "year": (last / (prev_year[-1] if prev_year else s[0][1]) - 1) * 100,
+        "total": (last / s[0][1] - 1) * 100,
+        "mdd": mdd * 100,
+    }
+
+
+def render_stats(series, theme, lang):
+    t = THEMES[theme]
+    labels = STATS_LABELS[lang]
+    cols = [24, 150, 280, 410, 540, 680]  # x de cada columna
+    row_h, top = 34, 40
+    h = top + row_h * len(series) + 14
+    pos, neg = ("#1a7f37", "#cf222e") if theme == "light" else ("#9ece6a", "#f7768e")
+
+    out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{h}" viewBox="0 0 {W} {h}" '
+           f'font-family="Segoe UI, Helvetica, Arial, sans-serif">',
+           f'<rect width="{W}" height="{h}" rx="8" fill="{t["bg"]}"/>']
+    for x, label in zip(cols, labels):
+        out.append(f'<text x="{x}" y="26" font-size="12" fill="{t["muted"]}">{label}</text>')
+    out.append(f'<line x1="16" x2="{W - 16}" y1="{top - 4}" y2="{top - 4}" stroke="{t["grid"]}"/>')
+
+    for i, ((name, s), color) in enumerate(zip(series.items(), t["lines"])):
+        st = stats(s)
+        y = top + row_h * i + 22
+        out.append(f'<rect x="{cols[0]}" y="{y - 11}" width="10" height="10" rx="2" fill="{color}"/>')
+        out.append(f'<text x="{cols[0] + 16}" y="{y}" font-size="14" font-weight="600" fill="{t["text"]}">{name}</text>')
+        out.append(f'<text x="{cols[1]}" y="{y}" font-size="14" fill="{t["text"]}">{st["quote"]:.2f}</text>')
+        for x, key in zip(cols[2:], ["month", "year", "total", "mdd"]):
+            v = st[key]
+            fill = pos if v > 0 else neg if v < 0 else t["text"]
+            out.append(f'<text x="{x}" y="{y}" font-size="14" font-weight="600" fill="{fill}">{v:+.1f}%</text>')
+    out.append("</svg>")
+    return "\n".join(out)
+
+
 def main():
     dest = Path(sys.argv[1] if len(sys.argv) > 1 else ".")
     dest.mkdir(parents=True, exist_ok=True)
     series = {name: fetch(name) for name in DARWINS}
     (dest / "darwins.svg").write_text(render(series, "light"), encoding="utf-8")
     (dest / "darwins-dark.svg").write_text(render(series, "dark"), encoding="utf-8")
+    for lang in STATS_LABELS:
+        (dest / f"darwins-stats-{lang}.svg").write_text(render_stats(series, "light", lang), encoding="utf-8")
+        (dest / f"darwins-stats-{lang}-dark.svg").write_text(render_stats(series, "dark", lang), encoding="utf-8")
     for name, s in series.items():
         print(f"{name}: {len(s)} cotizaciones, última {s[-1][1]} ({s[-1][0]})")
 

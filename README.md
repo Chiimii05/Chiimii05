@@ -1,6 +1,6 @@
 <p align="right">🇬🇧 <b>English</b> · <a href="README.es.md">🇪🇸 Español</a></p>
 
-<h1 align="center">Hi, I'm Imanol Ayo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+<p align="center"><img src="assets/banner-en.svg" alt="Imanol Ayo — Data Science & AI · Python developer · Algorithmic trader" width="100%" /></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=C8BE25&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+graduate;Building+ERPs+%26+SaaS+with+Python;Algorithmic+trader;Always+learning+new+things" alt="Typing SVG" />
@@ -67,13 +67,19 @@ Daily quote of my trading strategies on Darwinex Zero (start = 100). Updated aut
   <img alt="EGXL and EZDK quotes" src="https://raw.githubusercontent.com/Chiimii05/Chiimii05/output/darwins.svg" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chiimii05/Chiimii05/output/darwins-stats-en-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chiimii05/Chiimii05/output/darwins-stats-en.svg" />
+  <img alt="DARWIN returns" src="https://raw.githubusercontent.com/Chiimii05/Chiimii05/output/darwins-stats-en.svg" />
+</picture>
+
 <sub>Past performance is not a reliable indicator of future results.</sub>
 
 ## 📊 GitHub stats
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=Chiimii05&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chiimii05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chiimii05&hide=jupyter%20notebook&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8" alt="Top languages" />
 </p>
 
 ## 🐍 Contributions

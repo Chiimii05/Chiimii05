@@ -1,6 +1,6 @@
 <p align="right"><a href="README.md">🇬🇧 English</a> · 🇪🇸 <b>Español</b></p>
 
-<h1 align="center">Hola, soy Imanol Ayo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+<p align="center"><img src="assets/banner-es.svg" alt="Imanol Ayo — Ciencia de Datos e IA · Desarrollador Python · Trader algorítmico" width="100%" /></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=C8BE25&center=true&vCenter=true&width=600&lines=Graduado+en+Ciencia+de+Datos+e+IA;Creando+ERPs+y+SaaS+con+Python;Trader+algor%C3%ADtmico;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
@@ -67,13 +67,19 @@ Cotización diaria de mis estrategias de trading en Darwinex Zero (inicio = 100)
   <img alt="Cotizaciones de EGXL y EZDK" src="https://raw.githubusercontent.com/Chiimii05/Chiimii05/output/darwins.svg" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chiimii05/Chiimii05/output/darwins-stats-es-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chiimii05/Chiimii05/output/darwins-stats-es.svg" />
+  <img alt="Rentabilidades de los DARWINs" src="https://raw.githubusercontent.com/Chiimii05/Chiimii05/output/darwins-stats-es.svg" />
+</picture>
+
 <sub>Rentabilidades pasadas no garantizan rentabilidades futuras.</sub>
 
 ## 📊 Estadísticas
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=Chiimii05&theme=tokyonight&hide_border=true&border_radius=8&locale=es" alt="Racha de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chiimii05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8&locale=es" alt="Lenguajes más usados" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chiimii05&hide=jupyter%20notebook&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8&locale=es" alt="Lenguajes más usados" />
 </p>
 
 ## 🐍 Contribuciones
