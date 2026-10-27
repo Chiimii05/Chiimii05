@@ -53,6 +53,18 @@ Proyectos en los que trabajo ahora mismo. Aún no son públicos; aquí aparecer�
   <img src="https://img.shields.io/badge/Darwinex-2D2D2D?style=flat-square" />
 </p>
 
+## 📈 Mis DARWINs
+
+Cotización diaria de mis estrategias de trading en Darwinex Zero (inicio = 100). Se actualiza sola cada día.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chiimii05/Chiimii05/output/darwins-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chiimii05/Chiimii05/output/darwins.svg" />
+  <img alt="Cotizaciones de EGXL y EZDK" src="https://raw.githubusercontent.com/Chiimii05/Chiimii05/output/darwins.svg" />
+</picture>
+
+<sub>Rentabilidades pasadas no garantizan rentabilidades futuras.</sub>
+
 ## 📊 Estadísticas
 
 <p align="center">

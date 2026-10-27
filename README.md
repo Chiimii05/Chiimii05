@@ -53,6 +53,18 @@ Projects I'm working on right now. They're not public yet; links will appear her
   <img src="https://img.shields.io/badge/Darwinex-2D2D2D?style=flat-square" />
 </p>
 
+## 📈 My DARWINs
+
+Daily quote of my trading strategies on Darwinex Zero (start = 100). Updated automatically every day.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chiimii05/Chiimii05/output/darwins-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chiimii05/Chiimii05/output/darwins.svg" />
+  <img alt="EGXL and EZDK quotes" src="https://raw.githubusercontent.com/Chiimii05/Chiimii05/output/darwins.svg" />
+</picture>
+
+<sub>Past performance is not a reliable indicator of future results.</sub>
+
 ## 📊 GitHub stats
 
 <p align="center">
