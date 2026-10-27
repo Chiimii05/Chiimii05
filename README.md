@@ -15,20 +15,19 @@
 ## 👋 About me
 
 - 🎓 Graduated in **Data Science & Artificial Intelligence** from the University of Deusto.
-- 🔭 Right now I'm building **Vantia**, a management system (ERP) for small businesses.
+- 🔭 Right now I'm building my own products: an ERP, an education app and a web studio.
 - 🌱 Interested in **backend development, AI, algorithmic trading and finance**.
 - 📈 Running my own trading strategies as **DARWINs EGXL & EZDK**.
-  <!-- TODO: add the link to your Darwinex profile -->
 
-## 🚀 Featured projects
+## 🚧 What I'm building
 
-| Project | What it is | Stack |
+Projects I'm working on right now. They're not public yet; links will appear here as each one launches.
+
+| Project | What it is | Status |
 |---|---|---|
-| **Vantia** | ERP for small businesses: invoicing, inventory and clients, on web, desktop and mobile | FastAPI · SQLite/PostgreSQL · PWA |
-| **Ventry** | App for learning business by making decisions: real cases, a company simulator and rankings | Python · FastAPI · JavaScript |
-| **Aphros Digital** | Website studio: business websites built from my own templates (Showcase → Premium) | HTML · CSS · JavaScript |
-
-<sub>The code is private; demos and screenshots are available on request.</sub>
+| **Vantia** | Management software (ERP) for small businesses | ![In development](https://img.shields.io/badge/status-in_development-C8BE25?style=flat-square) |
+| **Ventry** | An app for learning business by making decisions | ![In development](https://img.shields.io/badge/status-in_development-C8BE25?style=flat-square) |
+| **Aphros Digital** | Websites for businesses, built from my own templates | ![In development](https://img.shields.io/badge/status-in_development-C8BE25?style=flat-square) |
 
 ## 🛠️ Tech stack
 

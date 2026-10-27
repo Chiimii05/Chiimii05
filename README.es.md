@@ -15,20 +15,19 @@
 ## 👋 Sobre mí
 
 - 🎓 Graduado en **Ciencia de Datos e Inteligencia Artificial** por la Universidad de Deusto.
-- 🔭 Ahora mismo estoy creando **Vantia**, un programa de gestión (ERP) para pymes.
+- 🔭 Ahora mismo estoy creando mis propios productos: un ERP, una app educativa y un estudio de webs.
 - 🌱 Me interesan el **desarrollo backend, la IA, el trading algorítmico y las finanzas**.
 - 📈 Opero mis propias estrategias como **DARWINs EGXL y EZDK**.
-  <!-- TODO: añadir el enlace al perfil de Darwinex -->
 
-## 🚀 Proyectos destacados
+## 🚧 En qué estoy trabajando
 
-| Proyecto | Qué es | Stack |
+Proyectos en los que trabajo ahora mismo. Aún no son públicos; aquí aparecerá el enlace de cada uno cuando se lance.
+
+| Proyecto | Qué es | Estado |
 |---|---|---|
-| **Vantia** | ERP para pymes: facturación, inventario y clientes, en web, escritorio y móvil | FastAPI · SQLite/PostgreSQL · PWA |
-| **Ventry** | App para aprender negocios tomando decisiones: casos reales, simulador de empresa y ranking | Python · FastAPI · JavaScript |
-| **Aphros Digital** | Estudio de webs: páginas para empresas hechas con mis propias plantillas (Vitrina → Premium) | HTML · CSS · JavaScript |
-
-<sub>El código es privado; puedo enseñar demos y capturas si me las pides.</sub>
+| **Vantia** | Programa de gestión (ERP) para pymes | ![En desarrollo](https://img.shields.io/badge/estado-en_desarrollo-C8BE25?style=flat-square) |
+| **Ventry** | App para aprender negocios tomando decisiones | ![En desarrollo](https://img.shields.io/badge/estado-en_desarrollo-C8BE25?style=flat-square) |
+| **Aphros Digital** | Webs para empresas hechas con mis propias plantillas | ![En desarrollo](https://img.shields.io/badge/estado-en_desarrollo-C8BE25?style=flat-square) |
 
 ## 🛠️ Tecnologías
 
