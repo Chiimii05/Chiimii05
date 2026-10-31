@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="122" viewBox="0 0 820 122" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="820" height="122" rx="8" fill="#1a1b27"/>
+<text x="24" y="26" font-size="12" fill="#7a82a8">DARWIN</text>
+<text x="150" y="26" font-size="12" fill="#7a82a8">Quote</text>
+<text x="280" y="26" font-size="12" fill="#7a82a8">This month</text>
+<text x="410" y="26" font-size="12" fill="#7a82a8">This year</text>
+<text x="540" y="26" font-size="12" fill="#7a82a8">Since start</text>
+<text x="680" y="26" font-size="12" fill="#7a82a8">Max. drawdown</text>
+<line x1="16" x2="804" y1="36" y2="36" stroke="#2a2e42"/>
+<rect x="24" y="51" width="10" height="10" rx="2" fill="#c8be25"/>
+<text x="40" y="62" font-size="14" font-weight="600" fill="#c0caf5">EGXL</text>
+<text x="150" y="62" font-size="14" fill="#c0caf5">102.07</text>
+<text x="280" y="62" font-size="14" font-weight="600" fill="#f7768e">-1.7%</text>
+<text x="410" y="62" font-size="14" font-weight="600" fill="#f7768e">-2.9%</text>
+<text x="540" y="62" font-size="14" font-weight="600" fill="#9ece6a">+2.1%</text>
+<text x="680" y="62" font-size="14" font-weight="600" fill="#f7768e">-11.0%</text>
+<rect x="24" y="85" width="10" height="10" rx="2" fill="#7aa2f7"/>
+<text x="40" y="96" font-size="14" font-weight="600" fill="#c0caf5">EZDK</text>
+<text x="150" y="96" font-size="14" fill="#c0caf5">105.95</text>
+<text x="280" y="96" font-size="14" font-weight="600" fill="#9ece6a">+0.6%</text>
+<text x="410" y="96" font-size="14" font-weight="600" fill="#f7768e">-4.3%</text>
+<text x="540" y="96" font-size="14" font-weight="600" fill="#9ece6a">+6.0%</text>
+<text x="680" y="96" font-size="14" font-weight="600" fill="#f7768e">-8.0%</text>
+</svg>
